@@ -9,4 +9,4 @@ Welcome to **My LMS**, a lightweight Learning Management System built using [MkD
 - Deployed automatically with `mkdocs gh-deploy`
 
 ## 🚀 Live Site
-👉 [https://Fregeauj86.github.io/my-lms/]
+👉 [[https://Fregeauj86.github.io/my-lms/]](https://github.com/Fregeauj86/My-LMS)
