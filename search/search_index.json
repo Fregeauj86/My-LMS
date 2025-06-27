@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to My LMS","text":"<p>This is your first lesson!</p>"},{"location":"#lesson-1-hello-world","title":"Lesson 1: Hello World","text":"<ul> <li>What is a computer?</li> <li>What is the Internet?</li> </ul>"}]}
