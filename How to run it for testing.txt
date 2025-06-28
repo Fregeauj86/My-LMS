@@ -1,5 +1,0 @@
-powershell
-
-mkdocs serve
-
-go to ip address with port given
