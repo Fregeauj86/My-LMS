@@ -1,7 +1,19 @@
-site_name: My LMS
+site_name: All-Ages ESL Academy
 theme:
   name: material
 nav:
   - Home: index.md
-  - Lesson 1: lesson1.md
-  - Lesson 2: lesson2.md
+  - Kids (Ages 5–10):
+      - Lesson 1: kids/greetings.md
+      - Lesson 2: kids/my-name-is.md
+      - Quiz: kids/quiz-greetings.md
+  - Teens (Ages 11–17):
+      - Daily Routine: teens/daily-routine.md
+      - Describing People: teens/describing-people.md
+      - Debate: teens/debate-practice.md
+  - Adults (18+):
+      - Small Talk: adults/small-talk.md
+      - Job Interview: adults/job-interview.md
+      - Academic Writing: adults/academic-writing.md
+  - Resources: resources.md
+  - Contact: contact.md
