@@ -4,16 +4,103 @@ theme:
 nav:
   - Home: index.md
   - Kids (Ages 5–10):
-      - Lesson 1: kids/greetings.md
-      - Lesson 2: kids/my-name-is.md
-      - Quiz: kids/quiz-greetings.md
+      - "Unit 1: Greetings and Introductions":
+          - Hello: kids/unit-01-greetings/lesson-01-hello.md
+          - What's Your Name?: kids/unit-01-greetings/lesson-02-your-name.md
+          - How Are You?: kids/unit-01-greetings/lesson-03-how-are-you.md
+          - Review: kids/unit-01-greetings/lesson-04-review.md
+          - Quiz 1: kids/unit-01-greetings/quiz-01.md
+      - "Unit 2: Classroom Language":
+          - Commands: kids/unit-02-classroom-language/lesson-05-commands.md
+          - School Objects: kids/unit-02-classroom-language/lesson-06-objects.md
+          - Colors: kids/unit-02-classroom-language/lesson-07-colors.md
+          - Shapes: kids/unit-02-classroom-language/lesson-08-shapes.md
+          - Review: kids/unit-02-classroom-language/review-02.md
+          - Quiz 2: kids/unit-02-classroom-language/quiz-02.md
+      - "Unit 3: My World":
+          - Family: kids/unit-03-my-world/lesson-09-family.md
+          - Home: kids/unit-03-my-world/lesson-10-home.md
+          - Body: kids/unit-03-my-world/lesson-11-body.md
+          - Toys: kids/unit-03-my-world/lesson-12-toys.md
+          - Quiz 3: kids/unit-03-my-world/quiz-03.md
+      - "Unit 4: Daily Routines":
+          - Wake Up: kids/unit-04-daily-routines/lesson-13-wake-up.md
+          - School Day: kids/unit-04-daily-routines/lesson-14-school-day.md
+          - After School: kids/unit-04-daily-routines/lesson-15-after-school.md
+          - Days of the Week: kids/unit-04-daily-routines/lesson-16-days-week.md
+          - Quiz 4: kids/unit-04-daily-routines/quiz-04.md
+      - "Unit 5: Food and Feelings":
+          - Food: kids/unit-05-food-and-feelings/lesson-17-food.md
+          - Favorites: kids/unit-05-food-and-feelings/lesson-18-favorites.md
+          - Feelings: kids/unit-05-food-and-feelings/lesson-19-feelings.md
+          - Dialogues: kids/unit-05-food-and-feelings/lesson-20-dialogues.md
+          - Quiz 5: kids/unit-05-food-and-feelings/quiz-05.md
+      - "Unit 6: Animals and Nature":
+          - Farm Animals: kids/unit-06-animals-and-nature/lesson-21-farm-animals.md
+          - Zoo Animals: kids/unit-06-animals-and-nature/lesson-22-zoo-animals.md
+          - Weather: kids/unit-06-animals-and-nature/lesson-23-weather.md
+          - Clothes: kids/unit-06-animals-and-nature/lesson-24-clothes.md
+          - Quiz 6: kids/unit-06-animals-and-nature/quiz-06.md
+      - "Unit 7: Fun and Play":
+          - Hobbies: kids/unit-07-fun-and-play/lesson-25-hobbies.md
+          - Can / Can't: kids/unit-07-fun-and-play/lesson-26-can-cant.md
+          - Numbers: kids/unit-07-fun-and-play/lesson-27-numbers.md
+          - Review: kids/unit-07-fun-and-play/lesson-28-review.md
+          - Quiz 7: kids/unit-07-fun-and-play/quiz-07.md
+      - "Unit 8: Stories and Projects":
+          - Story 1: kids/unit-08-stories-and-projects/lesson-29-story-1.md
+          - Story 2: kids/unit-08-stories-and-projects/lesson-30-story-2.md
+          - Project 1: kids/unit-08-stories-and-projects/lesson-31-project-1.md
+          - Project 2: kids/unit-08-stories-and-projects/lesson-32-project-2.md
+          - Quiz 8: kids/unit-08-stories-and-projects/quiz-08.md
+          - Final Review: kids/unit-08-stories-and-projects/final-review.md
   - Teens (Ages 11–17):
-      - Daily Routine: teens/daily-routine.md
-      - Describing People: teens/describing-people.md
-      - Debate: teens/debate-practice.md
+      - "Unit 1: Daily Routine and School":
+          - Daily Routine: teens/daily-routine.md
+          - My School Day: teens/my-school-day.md
+          - School Subjects: teens/school-subjects.md
+          - Weekly Schedule: teens/weekly-schedule.md
+          - Quiz 1: teens/quiz-daily-routine.md
+      - "Unit 2: Descriptions and People":
+          - Describing People: teens/describing-people.md
+          - Family and Friends: teens/family-friends.md
+          - Personality Adjectives: teens/personality-adjectives.md
+          - Clothing and Style: teens/clothing-style.md
+          - Quiz 2: teens/quiz-descriptions.md
+      - "Unit 3: Opinions and Expression":
+          - Likes and Dislikes: teens/likes-dislikes.md
+          - Expressing Opinions: teens/expressing-opinions.md
+          - Agree/Disagree: teens/agree-disagree.md
+          - Debate Practice: teens/debate-practice.md
+          - Quiz 3: teens/quiz-opinions.md
+      - "Unit 4: Projects and Review":
+          - Writing a Paragraph: teens/writing-paragraph.md
+          - Presenting Ideas: teens/presenting-ideas.md
+          - Review Game: teens/review-game.md
+          - Final Project: teens/final-project.md
   - Adults (18+):
-      - Small Talk: adults/small-talk.md
-      - Job Interview: adults/job-interview.md
-      - Academic Writing: adults/academic-writing.md
+      - "Unit 1: Everyday Conversations":
+          - Small Talk: adults/unit-01-everyday-conversations/lesson-01-small-talk.md
+          - Meeting People: adults/unit-01-everyday-conversations/lesson-02-meeting-people.md
+          - At the Store: adults/unit-01-everyday-conversations/lesson-03-at-the-store.md
+          - Making Requests: adults/unit-01-everyday-conversations/lesson-04-making-requests.md
+          - Quiz 1: adults/unit-01-everyday-conversations/quiz-01.md
+      - "Unit 2: Work and Careers":
+          - Job Interview: adults/unit-02-work-and-careers/lesson-05-job-interview.md
+          - Office Language: adults/unit-02-work-and-careers/lesson-06-office-language.md
+          - Writing a Resume: adults/unit-02-work-and-careers/lesson-07-writing-a-resume.md
+          - Professional Emails: adults/unit-02-work-and-careers/lesson-08-professional-emails.md
+          - Quiz 2: adults/unit-02-work-and-careers/quiz-02.md
+      - "Unit 3: Life Skills":
+          - Healthcare: adults/unit-03-life-skills/lesson-09-healthcare.md
+          - Banking: adults/unit-03-life-skills/lesson-10-banking.md
+          - Housing: adults/unit-03-life-skills/lesson-11-housing.md
+          - Transportation: adults/unit-03-life-skills/lesson-12-transportation.md
+          - Quiz 3: adults/unit-03-life-skills/quiz-03.md
+      - "Unit 4: Academic English":
+          - Academic Writing: adults/unit-04-academic-english/lesson-13-academic-writing.md
+          - Note Taking: adults/unit-04-academic-english/lesson-14-note-taking.md
+          - Presentations: adults/unit-04-academic-english/lesson-15-presentations.md
+          - Final Project: adults/unit-04-academic-english/lesson-16-final-project.md
   - Resources: resources.md
   - Contact: contact.md
