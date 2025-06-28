@@ -1,8 +1,13 @@
-# Welcome to My LMS
+# ESL Academy
 
-This is your first lesson!
+Get your free assessment here!
 
-## Lesson 1: Hello World
+<h1>Welcome</h1>
+<p align="center">
+  <img src="logo.png" alt="Homepage Image" width="300">
+</p>
 
-- What is a computer?
-- What is the Internet?
+## Want to learn English?
+
+- Hello
+- A-B-Cs as easy as 1-2-3s
